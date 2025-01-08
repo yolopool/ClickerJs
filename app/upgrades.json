@@ -8,4 +8,8 @@
 {id: 6, label: 'Extraordinary Clicker', ratepersecond:6000, minclicks:500000},
 {id: 7, label: 'Penultimate Clicker', ratepersecond:50000, minclicks:10000000},
 {id: 8, label: 'The One Clicker To Rule Them All', ratepersecond:1000000, minclicks:250000000},
+{id: 9, label: 'Acsend Clicker', ratepersecond:1000000000, minclicks:2500000000000},
+{id: 10, label: 'God Clicker', ratepersecond:100000000000, minclicks:2500000000000000},
+{id: 11, label: 'Low Taper Fade Clicker', ratepersecond:1000000000000, minclicks:250000000000000},
+{id: 12, label: 'Vexbolts Clicker', ratepersecond:100000000000000, minclicks:250000000000000000},
 ]
